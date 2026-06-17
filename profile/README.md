@@ -77,7 +77,3 @@ A broader collection of [Leland Green](https://github.com/lelandg)'s open-source
 - 🌐 **Website:** [chameleonlabs.ai](https://chameleonlabs.ai)
 - 💬 **Discord:** [discord.gg/chameleonlabs](https://discord.gg/chameleonlabs)
 - 👤 **Leland's profile:** [github.com/lelandg](https://github.com/lelandg)
-
----
-
-If you're looking for Leland's personal projects, experiments, and developer tools, visit **[lelandg/lelandg](https://github.com/lelandg/lelandg)**.
