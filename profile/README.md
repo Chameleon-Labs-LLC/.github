@@ -11,6 +11,8 @@ We build adaptive software that evolves with your business needs.
 
 ## Open source
 
+Everything we share, and a guide to setting up your own repos the way we set up ours: **[chameleonlabs.ai/open-source](https://chameleonlabs.ai/open-source)**
+
 ### Chameleon Labs projects
 
 - **[model-registry-client](https://github.com/Chameleon-Labs-LLC/model-registry-client)** — Resolve current LLM model IDs (Anthropic / OpenAI / Gemini) at runtime from a public registry. Zero-dependency Python + TypeScript clients.
@@ -24,6 +26,7 @@ We build adaptive software that evolves with your business needs.
 - **[plugins](https://github.com/Chameleon-Labs-LLC/plugins)** — Claude Code plugin marketplace for Chameleon Labs.
 - **[okf-tools](https://github.com/Chameleon-Labs-LLC/okf-tools)** — Zero-dependency toolkit library powering our autonomous agents.
 - **[Heimdallr](https://github.com/Chameleon-Labs-LLC/Heimdallr)** — Monitoring service for AWS Amplify and EC2, adaptable to other services.
+- **[secure-repo-template](https://github.com/Chameleon-Labs-LLC/secure-repo-template)** — Start a repo with secret scanning, dependency scanning, Dependabot and AI review already set up.
 
 ### Leland's projects
 
@@ -88,5 +91,6 @@ A broader collection of [Leland Green](https://github.com/lelandg)'s open-source
 ## Connect
 
 - 🌐 **Website:** [chameleonlabs.ai](https://chameleonlabs.ai)
+- 🧰 **Open source:** [chameleonlabs.ai/open-source](https://chameleonlabs.ai/open-source)
 - 💬 **Discord:** [discord.gg/chameleonlabs](https://discord.gg/chameleonlabs)
 - 👤 **Leland's profile:** [github.com/lelandg](https://github.com/lelandg)
