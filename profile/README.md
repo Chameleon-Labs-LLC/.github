@@ -24,7 +24,6 @@ We build adaptive software that evolves with your business needs.
 - **[plugins](https://github.com/Chameleon-Labs-LLC/plugins)** — Claude Code plugin marketplace for Chameleon Labs.
 - **[okf-tools](https://github.com/Chameleon-Labs-LLC/okf-tools)** — Zero-dependency toolkit library powering our autonomous agents.
 - **[Heimdallr](https://github.com/Chameleon-Labs-LLC/Heimdallr)** — Monitoring service for AWS Amplify and EC2, adaptable to other services.
-- **[secure-repo-template](https://github.com/Chameleon-Labs-LLC/secure-repo-template)** — Start a repo with secret scanning, dependency scanning, Dependabot and AI review already set up.
 
 ### Leland's projects
 
@@ -63,7 +62,7 @@ A broader collection of [Leland Green](https://github.com/lelandg)'s open-source
 - **[AudioPlay](https://github.com/lelandg/AudioPlay)** — Simple Python tray audio player.
 - **[TweetyPy](https://github.com/lelandg/TweetyPy)** — Compose long tweets and auto-post them to Twitter.
 - **[CSV2Doc](https://github.com/lelandg/CSV2Doc)** — Streamlit app to convert CSV files to HTML/DOCX with grouping, sorting, and filtering.
-- **[RemoveDupeDownloads](https://github.com/lelandg/RemoveDupeDownloads)** — Find duplicate downloads (files ending in " (1)") and move them out of the way.
+- **[RemoveDupeDownloads](https://github.com/lelandg/RemoveDupeDownloads)** — Find downloads with a numbered copy suffix in the name, like " (1)", and move them to a separate folder.
 - **[StreamlitPages](https://github.com/lelandg/StreamlitPages)** — A collection of small open-source Streamlit apps.
 - **[Utilities](https://github.com/lelandg/Utilities)** — General-purpose utility scripts and programs.
 

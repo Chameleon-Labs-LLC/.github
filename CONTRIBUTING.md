@@ -35,4 +35,4 @@ To add or update a Claude Code plugin in our marketplace, open a pull request ag
 
 ## License
 
-By contributing, you agree that your contribution is licensed under the same license as the repository you're contributing to (see its `LICENSE` file).
+By contributing, you agree that your contribution is licensed under the same license as the repository you're contributing to (see its `LICENSE` file). If a repository has no license yet, please open an issue and ask before you contribute.
